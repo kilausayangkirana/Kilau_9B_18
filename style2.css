@@ -1,0 +1,30 @@
+body{
+    margin: 0px;
+}
+header{
+    display:flex;
+    justify-content: space-between;
+    background-color: rgb(17, 68, 34);
+    width: 100%;
+}
+
+nav a{
+    padding: 10px 9px;
+    color: black;
+    float: right;
+    text-decoration: none;
+   
+}
+nav a:hover{
+    background-color: rgb(11, 24, 16);
+    color: rgb(141, 156, 147);
+    font-size: larger;
+    
+}
+.banner{
+    float:left;
+    color:whitesmoke;
+    font-size: 200%;
+
+}
+
